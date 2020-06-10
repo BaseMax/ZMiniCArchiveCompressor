@@ -44,8 +44,9 @@ Tested on: Linux base 5.3.0-40-generic (Cross-platform/ miniz)
 ## Similar Projects
 
 - https://github.com/BaseMax/MiniPHPArchiveCompressor
+- https://github.com/BaseMax/MiniArchiveCompressor
 
-Thanks to Rich Geldreich, Rich Geldreich, Alex Evans, Paul Holden, Thorsten Scheuermann, Matt Pritchard, Sean Barrett, Bruce Dawson, and Janez Zemva.
+Thanks to Rich Geldreich, Rich Geldreich, Alex Evans, Paul Holden, Thorsten Scheuermann, Matt Pritchard, Sean Barrett, Bruce Dawson, and Janez Zemva. (miniz)
 
 ---------
 
