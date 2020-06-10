@@ -5,17 +5,17 @@ C software to compress and archive files with CLI console. (miniz)
 ## Compile
 
 ```
-gcc mini.c -o mini -O3
+gcc compressor.c -o compressor -O3
 ```
 
 ## Using
 
 ```
-./mini c input.txt output.x
-./mini d output.x input.txt
+./compressor c input.txt output.x
+./compressor d output.x input.txt
 ```
 
-##### max@base:~/compress$ ./mini d o.txt oi.txt
+##### max@base:~/compress$ ./compressor d o.txt oi.txt
 
 ```
 Mode: d, Level: 10
@@ -27,7 +27,7 @@ Total output bytes: 4275
 Done.
 ```
 
-##### max@base:~/compress$ ./mini c i.txt o.txt
+##### max@base:~/compress$ ./compressor c i.txt o.txt
 
 ```
 Mode: c, Level: 10
