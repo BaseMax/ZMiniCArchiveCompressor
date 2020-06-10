@@ -2,8 +2,12 @@
 
 C software to compress and archive files with CLI console. (miniz)
 
+## Similar Projects
+
+- https://github.com/BaseMax/MiniPHPArchiveCompressor
+
 Thanks to Rich Geldreich, Rich Geldreich, Alex Evans, Paul Holden, Thorsten Scheuermann, Matt Pritchard, Sean Barrett, Bruce Dawson, and Janez Zemva.
-           
+
 ---------
 
 # Max Base
